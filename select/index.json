@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "僕ら愛してるふりしてさ",
+  "base_artist": "マイキ",
+  "createdAt": "2025-12-02T07:44:25.343625Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕ら愛してるふりしてさ",
+      "artist": "マイキ",
+      "has_synced": false,
+      "path": "select/pl_01_僕ら愛してるふりしてさ_マイキ.txt"
+    }
+  ]
+}
